@@ -1,0 +1,33 @@
+  .row {
+    height: 50px;
+
+  }
+  
+  .col {
+    height: 50px;
+    width: 50px;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    line-height: 50px;
+  }
+  
+  .col:hover {
+      background-color: white;
+  }
+  
+  .border-b {
+    border-bottom: 5px solid black;
+  }
+  
+  .border-r {
+    border-right: 5px solid black;
+  }
+  
+  .winner {
+      color: blue;
+  }
+  #winner{
+      font-size: 30px;
+  }
+  
